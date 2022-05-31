@@ -73,9 +73,61 @@
 // document.write("<h1> Current year is 2022:");
 // document.write("<h1> Birth year 2004:");
 // document.write("<h1> My Age is " + myAge + "</h1>");
-var radius = 20;
-document.write("<h1> Radius of circle is: 20 </h1>");
-var Circumference = 2*3.14*20;
-document.write("<h1> Circumference of circle is: " + Circumference + "</h1>");
-var area = 3.14 * (20*20);
-document.write("<h1> Area of circl is: " + area + "</h1>");
+// var radius = 20;
+// document.write("<h1> Radius of circle is: 20 </h1>");
+// var Circumference = 2*3.14*20;
+// document.write("<h1> Circumference of circle is: " + Circumference + "</h1>");
+// var area = 3.14 * (20*20);
+// document.write("<h1> Area of circl is: " + area + "</h1>");
+// var a = 10;
+// document.write("RESULTS:");
+// document.write("<h1> The value a is: 10 </h>");
+// a = ++a;
+// document.write("<h1> The value of ++a is: 11 </h1>");
+// document.write("<h1> Now the value of a is: 11 </h1>");
+// a = a++;
+// document.write("<h1> The value of a++ is: 11 </h1>");
+// document.write("<h1> Now the value of a is: 12 </h1>");
+// a = a--;
+// document.write("<h1> The value of a-- is: 11 </h1>");
+// document.write("<h1> Now the value of a is: 10 </h1>");
+// var a = 2;
+// var b = 1;
+// var result = --a - --b + ++b + b--;
+// document.write("<h1> The value of --a is: 1");
+// document.write("<h1> The value of --a - --b is: 1");
+// document.write("<h1> The value of --a - --b + ++b is: 1");
+// document.write("<h1> The value of --a - --b + ++b + b is: 1");
+// var userName = prompt("Enter your name");
+// alert("Welcome to " + userName);
+// var table = +prompt("Enter the number",5);
+// var count = 0;
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// document.write("<h1>" + table + " ✕ " + ++count + " = " + table*count);
+// var english = +prompt("Enter your English MArks");
+// var math = +prompt("Enter your MAth Marks");
+// var physics = +prompt("Enter your Physics Marks");
+// var totalMarks = 100;
+// document.write("<b> Subject  </b>");
+// document.write("<b> Total Marks  </b>");
+// document.write("<b> Obtained Marks  </b>");
+// document.write("<b> Percentage   </b> <br>");
+// document.write("<b> English </b>");
+// document.write("<b> Math </b>");
+// document.write("<b> Physics </b> <br>");
+// document.write("<b> 100 </b>");
+// document.write("<b> 100 </b>");
+// document.write("<b> 100 </b> <br>");
+
+
+
+
+
